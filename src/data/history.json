@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Privacy-preserving AI Research Assistant",
+    "organisation": "University of Washington",
+    "startDate": "Oct, 2024",
+    "endDate": "Mar, 2025",
+    "experiences": ["Utilized prompt engineering techniques", "Trained on conversational datasets"]
+  },
+  {
+    "role": "Software Engineering Fellow",
+    "organisation": "Headstarter AI Fellowship",
+    "startDate": "Jul, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Took part in a selective AI/ML focused program", "Developed an AI-powered support assistant"]
+  },
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "ATVAGA LLC",
+    "startDate": "Apr, 2024",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Developed unit tests for backend services",
+      "Identified and resolved bugs in the software"
+    ]
+  }
+]
