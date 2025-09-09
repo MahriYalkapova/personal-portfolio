@@ -5,7 +5,10 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
     "cra-template": "1.2.0",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.6",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.7",
     "react-bootstrap-icons": "^1.11.5",
