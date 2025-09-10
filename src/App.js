@@ -13,7 +13,6 @@ function App() {
       <Banner />
       <Projects />
       <Experience />
-      <Contact/>
     </div>
   );
 }
